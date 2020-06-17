@@ -1,0 +1,30 @@
+{
+    "name": "Romantic Story Battle Tabletop Mat",
+    "category": "mat",
+    "images": [
+        "mat/romantic/mat_1.png",
+        "mat/romantic/mat_1.png",
+        "mat/romantic/mat_1.png"
+    ],
+    "material": "Rubber",
+    "color": "Black",
+    "price": "$15.00",
+    "contains": [
+        "1 table top mat"
+    ],
+    "other_qualities": [
+        "branded", "image"
+    ],
+    "set_quantity": 1,
+    "size": {
+        "unit": "cm",
+        "width": 70,
+        "height": 30,
+        "depth": 0.25
+    },
+    "credit": {
+        "url": "https://www.alibaba.com/product-detail/Photo-Printing-Custom-Lock-customized-photo_62432122231.html",
+        "manufacturer": "Meisub Technology Co.",
+        "made in": "China"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "White Velvet Dice Bag",
+    "category": "bag",
+    "images": [
+        "bag/white_velvet/velvet_1.jpg",
+        "bag/white_velvet/velvet_2.jpg",
+        "bag/white_velvet/velvet_3.jpg"
+    ],
+    "material": "Velvet",
+    "color": "White",
+    "price": "$3.99",
+    "contains": [
+        "1 drawstring, laced dice bag"
+    ],
+    "other_qualities": [
+        "drawstring", "stamped"
+    ],
+    "set_quantity": 1,
+    "size": {
+        "unit": "mm",
+        "width": 20,
+        "height": 30
+    },
+    "credit": {
+        "url": "https://www.alibaba.com/product-detail/Custom-printed-Luxury-white-soft-drawstring_60772883706.html",
+        "manufacturer": "Shenzhen Lion Packaging Co., Ltd.",
+        "made in": "China"
+    }
+}

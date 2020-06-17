@@ -1,0 +1,33 @@
+{
+    "name": "Aqua and Gold Dice Set",
+    "category": "dice",
+    "images": [
+        "dice/zinc_aqua/zinc_1.jpg",
+        "dice/zinc_aqua/zinc_3.jpg",
+        "dice/zinc_aqua/zinc_2.jpg"
+    ],
+    "material": "Zinc Alloy",
+    "color": "Aqua and Gold",
+    "price": "$19.99",
+    "contains": [
+        "D4", "2-D6", "D8", "D10", "D12", "D20"
+    ],
+    "other_qualities": [
+        "painted", "embossed"
+    ],
+    "set_quantity": 7,
+    "size": {
+        "unit": "mm",
+        "D4": 19,
+        "2-D6": 14,
+        "D8": 16,
+        "D10": 15,
+        "D12": 17,
+        "D20": 21
+    },
+    "credit": {
+        "url": "https://www.alibaba.com/product-detail/Wholesale-dnd-d4-d6-d8-d10_60819840128.html",
+        "manufacturer": "Koi Hardware Products",
+        "made in": "China"
+    }
+}

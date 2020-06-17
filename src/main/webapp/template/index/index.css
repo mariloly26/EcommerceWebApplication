@@ -1,0 +1,48 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+}
+
+#mission{
+    background-color: beige;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+#developers{
+    background-color: gainsboro;
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    max-width: 100%;
+}
+
+.col-25 { -ms-flex: 24%; flex: 24%; }
+
+@media only screen and (max-width: 1200px) {
+    .col-s-50 { -ms-flex: 49%; flex: 49%; }
+}
+
+@media only screen and (max-width: 600px) {
+    .col-xs-100 { -ms-flex: 100%; flex: 100%; }
+}
+
+[class*="col-"]{
+    padding: 5px;
+}

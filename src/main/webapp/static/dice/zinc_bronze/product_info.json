@@ -1,0 +1,33 @@
+{
+    "name": "Bronze Dice Set",
+    "category": "dice",
+    "images": [
+        "dice/zinc_bronze/zinc_alloy_1.jpg",
+        "dice/zinc_bronze/zinc_alloy_3.jpg",
+        "dice/zinc_bronze/zinc_alloy_2.jpg"
+    ],
+    "material": "Zinc Alloy",
+    "color": "Bronze",
+    "price": "$19.99",
+    "contains": [
+        "D4", "2-D6", "D8", "D10", "D12", "D20"
+    ],
+    "other_qualities": [
+        "painted", "debossed"
+    ],
+    "set_quantity": 7,
+    "size": {
+        "unit": "mm",
+        "D4": 19,
+        "2-D6": 14,
+        "D8": 16,
+        "D10": 15,
+        "D12": 17,
+        "D20": 21
+    },
+    "credit": {
+        "url": "https://www.alibaba.com/showroom/20-sided-dice.html",
+        "manufacturer": "Koi Hardware Products",
+        "made in": "China"
+    }
+}

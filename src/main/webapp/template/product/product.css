@@ -1,0 +1,165 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: aliceblue;
+}
+
+.prod {
+    left: 0px;
+    width: 30%;
+    height: 100%;
+    top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+  	
+	margin: auto;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    border: solid;
+}
+
+button.prod{
+    background-color: lightgray;
+    border: none;
+    color: black;
+    text-align: center;
+    display: center;
+    font-size: 20px;
+    padding: 15px 15px;
+    cursor: pointer;
+    
+}
+
+button.prod:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    /*background-color: black;*/
+    
+}
+.card {
+    width: 100%;
+    max-width: 500px; 
+    margin: auto;
+    text-align: center;
+    overflow: auto;
+}
+
+.details {
+    display: inline;
+}
+
+.form {
+    /*right: 0px;
+    width: 70%;
+    height: 100%;
+    position: absolute;*/
+    background-color: aliceblue;
+}
+
+/* ORDER FORM */
+
+* {
+    box-sizing: border-box;
+}
+
+.row ,
+.mainrow {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
+    margin: 0 -16px;
+}
+
+.container {
+    background-color: #f2f2f2;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid lightgrey;
+    border-radius: 3px;
+    overflow: auto;
+}
+
+h2,
+h3,
+th,
+td {
+    font-family: "Montserrat", Helvetica, sans-serif;
+}
+
+input[type=text], 
+input[type=tel] {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-family: "Montserrat", Helvetica, sans-serif;
+}
+
+input[type=radio] {
+    margin-bottom: 20px;
+    padding: 12px;
+}
+
+select {
+    margin-bottom: 20px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-family: "Montserrat", Helvetica, sans-serif;
+}
+
+label {
+    margin-bottom: 10px;
+    display: block;
+    font-family: "Montserrat", Helvetica, sans-serif;
+}
+
+.side {
+    display: inline;
+}
+
+.btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px;
+    margin: 10px 0;
+    border: none;
+    width: 100%;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 17px;
+}
+
+.btn:hover {
+    background-color: #45a049;
+}
+
+
+table {
+    border-spacing: 5px;
+}
+
+th,
+td {
+    padding: 15px;
+}
+
+.leftalign {
+    text-align: left;
+}
+
+.rightalign {
+    text-align: right;
+}
+
+@media only screen and (max-width: 800px) {
+    .prod { width: 100%; }
+    .form { width: 100%; }
+    .row { flex-direction: column; }
+    .mainrow { flex-direction: column-reverse; }
+}

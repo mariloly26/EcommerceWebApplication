@@ -1,0 +1,33 @@
+{
+    "name": "Transparent Resin Dice Set",
+    "category": "dice",
+    "images": [
+        "dice/resin_clear/resin_1.jpg",
+        "dice/resin_clear/resin_2.jpg",
+        "dice/resin_clear/resin_3.jpg"
+    ],
+    "material": "Resin",
+    "color": "Transparent",
+    "price": "$7.50",
+    "contains": [
+        "D4", "2-D6", "D8", "D10", "D12", "D20"
+    ],
+    "other_qualities": [
+        "molded", "assorted colors"
+    ],
+    "set_quantity": 7,
+    "size": {
+        "unit": "mm",
+        "D4": 19,
+        "2-D6": 14,
+        "D8": 16,
+        "D10": 15,
+        "D12": 17,
+        "D20": 21
+    },
+    "credit": {
+        "url": "https://www.alibaba.com/product-detail/Dungeons-Dragons-polyhedral-resin-dice-set_62399849302.html",
+        "manufacturer": "Dongguan Yushun Hardware Co.",
+        "made in": "China"
+    }
+}

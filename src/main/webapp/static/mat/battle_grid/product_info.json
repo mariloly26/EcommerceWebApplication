@@ -1,0 +1,29 @@
+{
+    "name": "Dry Erase Battle Grid Mat",
+    "category": "mat",
+    "images": [
+        "mat/battle_grid/grid_1.jpg",
+        "mat/battle_grid/grid_2.jpg",
+        "mat/battle_grid/grid_3.jpg"
+    ],
+    "material": "Vinyl",
+    "color": "Aged Paper",
+    "price": "$25.00",
+    "contains": [
+        "1 dry erase table top mat"
+    ],
+    "other_qualities": [
+        "dry erase", "premium film"
+    ],
+    "set_quantity": 1,
+    "size": {
+        "unit": "cm",
+        "width": 24,
+        "height": 36
+    },
+    "credit": {
+        "url": "https://www.alibaba.com/product-detail/Custom-24x36-Table-Top-Vinyl-Role_60821608586.html",
+        "manufacturer": "Shanghai Cntopprint Co., Ltd.",
+        "made in": "China"
+    }
+}

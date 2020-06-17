@@ -1,0 +1,65 @@
+img{
+    border-style: solid;
+}
+.conf h2{
+    text-align: center
+}
+
+.conf{
+    padding: 20px;
+    background-color: white;
+    width: 70%;
+    margin: 0 auto;
+    overflow: auto;
+}
+.prodcard{
+    width: 40%;
+    float: left;
+    left: 0px;
+    padding-right: 40px;
+    display: table-cell
+}
+
+.proddetails{
+    width: 100%;
+    /*right: 0px;*/
+    /*float: left;*/
+    /*display: table-cell;*/
+    text-align: center;
+    align: center;
+    margin: 0 auto;
+}
+
+
+
+.prodpricewrapper{
+    /*display: table-cell;*/
+    /* border-style: solid; */
+    width: 70%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.orderdetails{
+    text-align: center;
+    overflow:hidden;
+
+    
+}
+
+.shipping{
+    width: 50%;
+    float: left;
+    left: 0px;
+    display: table-cell;
+}
+
+.payment{
+    width: 50%;
+    right: 0px;
+    float: left;
+    display: table-cell;
+
+}
+

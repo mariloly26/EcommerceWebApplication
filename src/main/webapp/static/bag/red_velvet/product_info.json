@@ -1,0 +1,29 @@
+{
+    "name": "Red Velvet Dice Bag",
+    "category": "bag",
+    "images": [
+        "bag/red_velvet/velvet_1.jpg",
+        "bag/red_velvet/velvet_2.jpg",
+        "bag/red_velvet/velvet_3.jpg"
+    ],
+    "material": "Velvet",
+    "color": "Red",
+    "price": "$3.99",
+    "contains": [
+        "1 drawstring, laced dice bag"
+    ],
+    "other_qualities": [
+        "drawstring", "stamped"
+    ],
+    "set_quantity": 1,
+    "size": {
+        "unit": "mm",
+        "width": 24,
+        "height": 36
+    },
+    "credit": {
+        "url": "https://www.alibaba.com/product-detail/Custom-Brand-Logo-Acceptable-Square-Bottom_62108122358.html",
+        "manufacturer": "Jinhua Bestcreate Art&Craft Co.",
+        "made in": "China"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "name": "D&D 5th Edition Dungeon Master's Handbook",
+    "category": "book",
+    "images": [
+        "book/dungeon_masters_handbook/book_1.jpg",
+        "book/dungeon_masters_handbook/book_2.jpg",
+        "book/dungeon_masters_handbook/book_3.jpg",
+        "book/dungeon_masters_handbook/book_4.jpg"
+    ],
+    "material": "Hardcover",
+    "color": "Print",
+    "price": "$49.94",
+    "contains": [
+        "1 D&D Dungeon Master's Handbook"
+    ],
+    "other_qualities": [
+        "5e"
+    ],
+    "set_quantity": 1,
+    "size": {
+        "unit": "cm",
+        "width": 21.5,
+        "height": 28,
+        "depth": 2
+    },
+    "credit": {
+        "url": "https://www.amazon.com/dp/0786965622/",
+        "manufacturer": "Wizards of the Coast",
+        "made in": "United States"
+    }
+}
